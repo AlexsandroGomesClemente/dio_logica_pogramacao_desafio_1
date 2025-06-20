@@ -1,0 +1,15 @@
+{
+  "name": "logica_pogramacao_desafio_1",
+  "version": "1.0.0",
+  "description": "Desafio 1 de logica de programação",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "author": "Alexsandro Clemente",
+  "license": "ISC",
+  "dependencies": {
+    "readline": "^1.3.0"
+  }
+}
